@@ -1,0 +1,55 @@
+<!DOCTYPE>
+<html lang="en">
+    <meta charset="UTF-8"
+    <style>
+        body 
+        {background-color: #f8d7da;
+        color:#4b2e20;}
+    </style>
+    <h1>
+        <b>Espresso Yourself</b></h1>
+        
+        <h2>Our Menu</h2>
+        <table>
+            <tr>
+                <th>Drink</th>
+                <th>Size</th>
+                <th>Price</th>
+            </tr>
+            <tr>
+            <td>Espresso</td>
+            <td><Small></td>
+                <td>$3</td>
+                </tr>
+                <tr>
+                    <td>Vanilla Latte</td>
+                    <td>Medium</td>
+                    <td>$5</td>
+                </tr>
+                <tr>
+                    <td>Matcha Latte</td>
+                    <td>Large</td>
+                    <tg>$7</tg>
+                
+                </tr>
+
+        </table>
+        <h3>
+        <p>You can also customize your drink!</p></h3>
+        <ul>
+            <li>splash of milk</li>
+            <li>extra espresso</li>
+            <li>whipped cream</li>
+        </ul>
+
+        <h3>We offer more teaching lessons about coffe!</h3>
+        <p>Learn more about coffee</p>
+        <a href="https://en.wikipedia.org/wiki/Coffee"target="_blank">click here</a>
+
+        <img src="https://tse1.mm.bing.net/th/id/OIP.etMNxe-xjh8LXMDn2HijmAAAAA?r=0&rs=1&pid=ImgDetMain&o=7&rm=3"alt="barista">
+
+        <button class="btn">Learn about us more</button>
+    </body>
+
+    
+</html>
